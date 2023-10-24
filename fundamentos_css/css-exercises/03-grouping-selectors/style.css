@@ -1,0 +1,14 @@
+.button-Style, .adjust-Background {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman' , serif sans-serif;
+}
+
+.button-Style {
+    background-color: #000;
+    color: aliceblue;
+}
+
+.adjust-Background {
+    background-color: yellow;
+    color: #000;
+}
