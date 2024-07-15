@@ -1,0 +1,24 @@
+#### Comand line basics in Windows
+
+- **cd** - Change Directory
+- **pwd** - Print Working Directory
+- **md** - Make Directory
+- **rd** - Remove Directory
+- **dir** - List Directory
+- **ls** - List Directory
+- **cls** - Clear Screen
+- **copy** - Copy Files
+- **move** - Move Files
+- **del** - Delete Files
+- **ren** - Rename Files
+- **type** - Display File Contents
+- **echo** - Display Message on Screen
+- **find** - Search for Text in Files
+- **ipconfig** - Display IP Configuration
+- **ping** - Test Network Connection
+- **tracert** - Trace Route to Remote Host
+- **netstat** - Display Network Statistics
+- **tasklist** - List Running Processes
+- **taskkill** - Terminate Processes
+- **shutdown** - Shutdown Computer
+- **help** - Get Help on Commands
